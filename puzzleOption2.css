@@ -1,0 +1,35 @@
+
+.container 
+{
+	width: 1600px;
+	height: 800px;
+	/*border-style: solid;*/
+	border-color: #566D7E;
+	border-width: 5px;
+	
+}
+
+
+.puzzleArea
+{
+	width: 1100px;
+	height: 600px;
+	border: 3px solid blue;
+}
+
+.puzzletiles
+{
+	width: 100px;
+	height: 100px;
+	border-color: red;
+	border-width: 2px;
+}
+
+.bottom 
+{
+	width: 270px;
+	height: 25px;
+	border: 3px solid blue;
+	text-align: center;
+	
+}
