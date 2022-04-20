@@ -1,0 +1,43 @@
+ body{
+        width: 600px;
+        margin: 0 auto;
+        font-size: 14pt;
+        text-align: center;
+        background-image: url('86288.jpg');
+    }
+#output .validations{
+        height: 25px;
+        width: 70px;
+        border: none;
+        padding: 2px;
+    }
+#puzzlearea {
+        width: 400px;
+        height: 400px;
+        font-size: 0px; 
+        position: relative;
+        border: 2px black;
+        margin: 0 auto;
+        
+    }
+.tile {
+        border: 2px solid black;
+        background: url(background.jpg);
+        width: 90px;
+        height: 90px;
+        display: inline-block;
+    }
+.tileNumber {
+        text-align: center;
+        font-size: 40pt;
+        line-height: 90px;
+        margin: auto;
+    }
+.slot {
+        position: absolute;
+        width: 98px;
+        height: 98px;
+        border: 1px solid white;
+        display: inline-block;
+        font-size: 0px;
+    }
