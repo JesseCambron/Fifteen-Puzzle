@@ -18,6 +18,7 @@
         position: relative;
         border: 2px black;
         margin: 0 auto;
+        z-index: 1000;
         
     }
 .tile {
